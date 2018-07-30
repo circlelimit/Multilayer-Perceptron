@@ -4,4 +4,3 @@ The purpose of this document is to demonstrate the use of Multilayer Perceptron 
 # Projects
 Project 1a makes use of a MLP to classify satellite images. 
 <br />Project 1b makes use of a MLP to predict housing prices.
-<br />The full report can be found at https://drive.google.com/open?id=1FBgBn2dt_TrK43QDDDnL9RRzhBtLx9md
